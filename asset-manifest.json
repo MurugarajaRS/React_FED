@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/capstone/static/css/main.5f361e03.chunk.css",
-    "main.js": "/capstone/static/js/main.869cd0ba.chunk.js",
-    "main.js.map": "/capstone/static/js/main.869cd0ba.chunk.js.map",
-    "runtime-main.js": "/capstone/static/js/runtime-main.89024668.js",
-    "runtime-main.js.map": "/capstone/static/js/runtime-main.89024668.js.map",
-    "static/js/2.928f7d8a.chunk.js": "/capstone/static/js/2.928f7d8a.chunk.js",
-    "static/js/2.928f7d8a.chunk.js.map": "/capstone/static/js/2.928f7d8a.chunk.js.map",
-    "index.html": "/capstone/index.html",
-    "precache-manifest.ca43395207e75ab3fd45261c81be8dce.js": "/capstone/precache-manifest.ca43395207e75ab3fd45261c81be8dce.js",
-    "service-worker.js": "/capstone/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/capstone/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.928f7d8a.chunk.js.LICENSE.txt": "/capstone/static/js/2.928f7d8a.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/capstone/static/media/logo.5d5d9eef.svg"
+    "main.css": "/React_FED/static/css/main.5f361e03.chunk.css",
+    "main.js": "/React_FED/static/js/main.882c2806.chunk.js",
+    "main.js.map": "/React_FED/static/js/main.882c2806.chunk.js.map",
+    "runtime-main.js": "/React_FED/static/js/runtime-main.90a63172.js",
+    "runtime-main.js.map": "/React_FED/static/js/runtime-main.90a63172.js.map",
+    "static/js/2.928f7d8a.chunk.js": "/React_FED/static/js/2.928f7d8a.chunk.js",
+    "static/js/2.928f7d8a.chunk.js.map": "/React_FED/static/js/2.928f7d8a.chunk.js.map",
+    "index.html": "/React_FED/index.html",
+    "precache-manifest.de03e9f9d05dd892fe82d14140e44835.js": "/React_FED/precache-manifest.de03e9f9d05dd892fe82d14140e44835.js",
+    "service-worker.js": "/React_FED/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/React_FED/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.928f7d8a.chunk.js.LICENSE.txt": "/React_FED/static/js/2.928f7d8a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React_FED/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.89024668.js",
+    "static/js/runtime-main.90a63172.js",
     "static/js/2.928f7d8a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.869cd0ba.chunk.js"
+    "static/js/main.882c2806.chunk.js"
   ]
 }
