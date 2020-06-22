@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/React_FED/static/css/main.70dbf1c8.chunk.css",
-    "main.js": "/React_FED/static/js/main.7e887a8c.chunk.js",
-    "main.js.map": "/React_FED/static/js/main.7e887a8c.chunk.js.map",
+    "main.css": "/React_FED/static/css/main.5a5cdea7.chunk.css",
+    "main.js": "/React_FED/static/js/main.5c389251.chunk.js",
+    "main.js.map": "/React_FED/static/js/main.5c389251.chunk.js.map",
     "runtime-main.js": "/React_FED/static/js/runtime-main.90a63172.js",
     "runtime-main.js.map": "/React_FED/static/js/runtime-main.90a63172.js.map",
-    "static/js/2.9ae72ef7.chunk.js": "/React_FED/static/js/2.9ae72ef7.chunk.js",
-    "static/js/2.9ae72ef7.chunk.js.map": "/React_FED/static/js/2.9ae72ef7.chunk.js.map",
+    "static/js/2.8740a139.chunk.js": "/React_FED/static/js/2.8740a139.chunk.js",
+    "static/js/2.8740a139.chunk.js.map": "/React_FED/static/js/2.8740a139.chunk.js.map",
     "index.html": "/React_FED/index.html",
-    "precache-manifest.7b3ad7eb9005fc33cc70479f8722fe6f.js": "/React_FED/precache-manifest.7b3ad7eb9005fc33cc70479f8722fe6f.js",
+    "precache-manifest.4a756062577f564eda4f10e0f25a72b2.js": "/React_FED/precache-manifest.4a756062577f564eda4f10e0f25a72b2.js",
     "service-worker.js": "/React_FED/service-worker.js",
-    "static/css/main.70dbf1c8.chunk.css.map": "/React_FED/static/css/main.70dbf1c8.chunk.css.map",
-    "static/js/2.9ae72ef7.chunk.js.LICENSE.txt": "/React_FED/static/js/2.9ae72ef7.chunk.js.LICENSE.txt",
+    "static/css/main.5a5cdea7.chunk.css.map": "/React_FED/static/css/main.5a5cdea7.chunk.css.map",
+    "static/js/2.8740a139.chunk.js.LICENSE.txt": "/React_FED/static/js/2.8740a139.chunk.js.LICENSE.txt",
     "static/media/Asus zenfone max pro m2.jpeg": "/React_FED/static/media/Asus zenfone max pro m2.9cac8adb.jpeg",
     "static/media/Food.jpeg": "/React_FED/static/media/Food.a28ba2d2.jpeg",
+    "static/media/Pencils.jpeg": "/React_FED/static/media/Pencils.ba996b77.jpeg",
     "static/media/Stationary.jpeg": "/React_FED/static/media/Stationary.d21e5750.jpeg",
     "static/media/favicon.ico": "/React_FED/static/media/favicon.2a050f75.ico"
   },
   "entrypoints": [
     "static/js/runtime-main.90a63172.js",
-    "static/js/2.9ae72ef7.chunk.js",
-    "static/css/main.70dbf1c8.chunk.css",
-    "static/js/main.7e887a8c.chunk.js"
+    "static/js/2.8740a139.chunk.js",
+    "static/css/main.5a5cdea7.chunk.css",
+    "static/js/main.5c389251.chunk.js"
   ]
 }
