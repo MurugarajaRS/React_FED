@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/React_FED/static/css/main.73230844.chunk.css",
-    "main.js": "/React_FED/static/js/main.f6dbe1ed.chunk.js",
-    "main.js.map": "/React_FED/static/js/main.f6dbe1ed.chunk.js.map",
-    "runtime-main.js": "/React_FED/static/js/runtime-main.90a63172.js",
-    "runtime-main.js.map": "/React_FED/static/js/runtime-main.90a63172.js.map",
-    "static/js/2.9ac31601.chunk.js": "/React_FED/static/js/2.9ac31601.chunk.js",
-    "static/js/2.9ac31601.chunk.js.map": "/React_FED/static/js/2.9ac31601.chunk.js.map",
+    "main.css": "/React_FED/static/css/main.cb53ea4c.chunk.css",
+    "main.js": "/React_FED/static/js/main.c14d6d65.chunk.js",
+    "main.js.map": "/React_FED/static/js/main.c14d6d65.chunk.js.map",
+    "runtime-main.js": "/React_FED/static/js/runtime-main.b3aa23f6.js",
+    "runtime-main.js.map": "/React_FED/static/js/runtime-main.b3aa23f6.js.map",
+    "static/js/2.f60a466f.chunk.js": "/React_FED/static/js/2.f60a466f.chunk.js",
+    "static/js/2.f60a466f.chunk.js.map": "/React_FED/static/js/2.f60a466f.chunk.js.map",
+    "static/css/3.db4c8018.chunk.css": "/React_FED/static/css/3.db4c8018.chunk.css",
+    "static/js/3.2b75eb42.chunk.js": "/React_FED/static/js/3.2b75eb42.chunk.js",
+    "static/js/3.2b75eb42.chunk.js.map": "/React_FED/static/js/3.2b75eb42.chunk.js.map",
+    "static/css/4.db4c8018.chunk.css": "/React_FED/static/css/4.db4c8018.chunk.css",
+    "static/js/4.030ad6a4.chunk.js": "/React_FED/static/js/4.030ad6a4.chunk.js",
+    "static/js/4.030ad6a4.chunk.js.map": "/React_FED/static/js/4.030ad6a4.chunk.js.map",
     "index.html": "/React_FED/index.html",
-    "precache-manifest.a4a2e614324d9009843a6ff2d3b542ef.js": "/React_FED/precache-manifest.a4a2e614324d9009843a6ff2d3b542ef.js",
+    "precache-manifest.de559801358cf4ee2b380e3b03d91327.js": "/React_FED/precache-manifest.de559801358cf4ee2b380e3b03d91327.js",
     "service-worker.js": "/React_FED/service-worker.js",
-    "static/css/main.73230844.chunk.css.map": "/React_FED/static/css/main.73230844.chunk.css.map",
-    "static/js/2.9ac31601.chunk.js.LICENSE.txt": "/React_FED/static/js/2.9ac31601.chunk.js.LICENSE.txt",
+    "static/css/3.db4c8018.chunk.css.map": "/React_FED/static/css/3.db4c8018.chunk.css.map",
+    "static/css/4.db4c8018.chunk.css.map": "/React_FED/static/css/4.db4c8018.chunk.css.map",
+    "static/css/main.cb53ea4c.chunk.css.map": "/React_FED/static/css/main.cb53ea4c.chunk.css.map",
+    "static/js/2.f60a466f.chunk.js.LICENSE.txt": "/React_FED/static/js/2.f60a466f.chunk.js.LICENSE.txt",
     "static/media/Asus zenfone max pro m2.jpeg": "/React_FED/static/media/Asus zenfone max pro m2.9cac8adb.jpeg",
     "static/media/Electronics.jpeg": "/React_FED/static/media/Electronics.52670820.jpeg",
     "static/media/Food.jpeg": "/React_FED/static/media/Food.65473bd4.jpeg",
@@ -20,9 +28,9 @@
     "static/media/favicon.ico": "/React_FED/static/media/favicon.2a050f75.ico"
   },
   "entrypoints": [
-    "static/js/runtime-main.90a63172.js",
-    "static/js/2.9ac31601.chunk.js",
-    "static/css/main.73230844.chunk.css",
-    "static/js/main.f6dbe1ed.chunk.js"
+    "static/js/runtime-main.b3aa23f6.js",
+    "static/js/2.f60a466f.chunk.js",
+    "static/css/main.cb53ea4c.chunk.css",
+    "static/js/main.c14d6d65.chunk.js"
   ]
 }
